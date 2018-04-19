@@ -20,4 +20,4 @@ def position_taken?(board, index)
   end
 end
 
-# position_taken?(board, index) == false || board[index] == "0" && 
+# position_taken?(board, index) == false || board[index] == "0" &&
